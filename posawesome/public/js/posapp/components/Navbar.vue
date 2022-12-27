@@ -7,7 +7,7 @@
       ></v-app-bar-nav-icon>
       <v-img
         src="/assets/posawesome/js/posapp/components/pos/pos.png"
-        alt="POS Awesome"
+        alt="POS"
         max-width="32"
         class="mr-2"
         color="primary"
@@ -17,8 +17,8 @@
         style="cursor: pointer"
         class="text-uppercase primary--text"
       >
-        <span class="font-weight-light">pos</span>
-        <span>awesome</span>
+        <span class="font-weight-light"></span>
+        <span>Home</span>
       </v-toolbar-title>
 
       <v-spacer></v-spacer>
@@ -157,7 +157,7 @@ export default {
       snackColor: '',
       snackText: '',
       company: 'POS Awesome',
-      company_img: '/assets/erpnext/images/erpnext-logo.svg',
+      company_img: '/assets/erpnext/images/pos.png',
       pos_profile: '',
       freeze: false,
       freezeTitle: '',
