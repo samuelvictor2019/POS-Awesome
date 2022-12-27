@@ -157,7 +157,7 @@ export default {
       snackColor: '',
       snackText: '',
       company: 'POS Awesome',
-      company_img: '/assets/erpnext/images/pos.png',
+      company_img: '/assets/erpnext/images/erpnext-logo.svg',
       pos_profile: '',
       freeze: false,
       freezeTitle: '',
